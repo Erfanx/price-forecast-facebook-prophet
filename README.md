@@ -1,2 +1,2 @@
-# price-forecast-facebook-prophet
+# Product Price Prediction
 Predicting future product prices using Facebook Prophet
